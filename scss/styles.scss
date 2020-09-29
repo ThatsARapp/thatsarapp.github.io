@@ -1035,3 +1035,14 @@ footer {
     }
 
 }
+
+.head-shot {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 10px solid white;
+    overflow:hidden;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
